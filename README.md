@@ -55,7 +55,7 @@ while True:
  conn.send('Thank you for connecting'.encode())
  conn.close()
 ```
-## OUPUT
+## OUTPUT
 ![image](https://github.com/Iswarya0580/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/149989171/b41b6090-f91c-469a-9b0c-9a7615f77014)
 
 ## RESULT
